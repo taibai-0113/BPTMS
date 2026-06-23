@@ -36,10 +36,10 @@ BPTMS，全称 Battery Pack Testing & Management System，是一个面向锂电池组测试场景
 + 如何把个人课程项目整理成可读、可运行、可维护的开源仓库
 
 ### 项目UI
-<img src="https://cdn.nlark.com/yuque/0/2026/png/63448749/1782209291370-6012a7eb-5fc4-4f61-897c-8aba9b5fb4e5.png" width="2560" title="" crop="0,0,1,1" id="u8b3ec07f" class="ne-image">
+<img src="./docs/UI.png" width="2560">
 
 ### 项目思维导图
-<img src="https://cdn.nlark.com/yuque/0/2026/png/63448749/1782209317672-9aa7cf44-927e-4380-90f0-6deb24a17782.png" width="12288" title="" crop="0,0,1,1" id="u851fc457" class="ne-image">
+<img src="./docs/BPTMS_思维导图图片.png" width="12288">
 
 ---
 
