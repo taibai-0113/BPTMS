@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/styles"> 
+		<file alias="dark.qss">styles/dark.qss</file> 
+	</qresource>
+
+    <qresource prefix="/icon">
+		<file alias="mainIcon.svg">icon/mainIcon.svg</file>
+        <file alias="connect.svg">icon/connect.svg</file>
+		<file alias="disConnect.svg">icon/disConnect.svg</file>
+		<file alias="createTask.svg">icon/createTask.svg</file>
+		<file alias="startTask.svg">icon/startTask.svg</file>
+		<file alias="pauseTask.svg">icon/pauseTask.svg</file>
+		<file alias="stopTask.svg">icon/stopTask.svg</file>
+		<file alias="alarmConfig.svg">icon/alarmConfig.svg</file>
+		<file alias="alarmConfig_black.svg">icon/alarmConfig_black.svg</file>
+		<file alias="serialPortSettings.svg">icon/serialPortSettings.svg</file>
+		<file alias="serialPortSettings_black.svg">icon/serialPortSettings_black.svg</file>
+		<file alias="createTaskDialog.svg">icon/createTaskDialog.svg</file>
+    </qresource>
+</RCC>

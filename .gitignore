@@ -1,0 +1,28 @@
+# Qt Creator
+*.user
+*.pro.user
+*.autosave
+
+# Build output
+build/
+build-*/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Runtime data
+app.db
+*.db
+*.sqlite
+logs/
+config/app.ini
+config/alarm_config.json
+
+# System files
+.DS_Store
+Thumbs.db
